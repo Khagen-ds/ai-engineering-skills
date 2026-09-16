@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean AI Engineering"
+  short_description: "Run bounded, token-efficient engineering work"
+  default_prompt: "Apply the lean AI engineering workflow to plan or execute the next bounded technical task."
