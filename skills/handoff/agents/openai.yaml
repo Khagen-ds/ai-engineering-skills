@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Create a compact continuation brief"
+  default_prompt: "Create a compact handoff for a fresh session, using repository artifacts as the system of record."
